@@ -33,9 +33,9 @@
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
+    "backgroundImage": "CMS_Audiogram_1.jpg",
+    "foregroundColor": "#d84a4a",
+    "waveBottom": 640,
     "waveTop": 320
   },
   "Bars": {
