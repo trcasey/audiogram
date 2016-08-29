@@ -91,7 +91,7 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
-  }
+  },
   "CMS Background image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
@@ -101,4 +101,5 @@
     "foregroundColor": "#d84a4a",
     "waveBottom": 640,
     "waveTop": 320
+  }
 }
